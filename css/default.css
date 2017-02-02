@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body { background:#000; color:#FFF; font-size:16px; }
+
+h1, h2 { font-family: 'Mystery Quest', cursive; }
+
+section, article { position:relative; width:635px; margin:0 auto; border:0px; }
+
+h1 { text-align:center; margin-top:15px; font-size:2em; }
+
+.imageHolder { width:153px; height:64px; background:url(../images/fourSeasons.jpg) no-repeat; display:inline-block; margin:0; border:0; padding:0; cursor:pointer; transition: all .3s; -moz-transition: all .3s; -webkit-transition: all 3s; }
+
+#imageContainer { margin-top:15px; background-color:#FFF; }
+
+#home {  }
+#team {  }
+#work {  }
+
+.home { color:#6ebd1a; }
+.team { color:#f8a40a; }
+.work { color:#930d03; }
+
+
+#mainCopy { background-color:#FFF; font-size:1.5em;}
+#mainCopy h2 { text-transform:capitalize; text-align:left; padding-left:20px; padding-top:20px; margin:0px; border:0px; }
+#mainCopy p { color:gray; padding:0px 20px; font-size:.8em; line-height:1.5em; padding-bottom:20px; }
+
+.fadeMe { opacity:.2; }
