@@ -22,7 +22,7 @@ section, article { position: relative; width: 635px; margin: 0 auto; border: 0; 
 }
 
 .image-holder:hover {
-	opacity: 0.3;
+	opacity: 0.35;
 }
 
 .image-holder-two { 
@@ -38,7 +38,7 @@ section, article { position: relative; width: 635px; margin: 0 auto; border: 0; 
 }
 
 .image-holder-two:hover {
-	opacity: 0.3;
+	opacity: 0.35;
 }
 
 
